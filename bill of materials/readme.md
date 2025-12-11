@@ -10,7 +10,7 @@
 |5|Pololu Wiel 60×8mm - wit|	wielen|nieuw|€ 6.30|2|	€ 12.60|
 |6|DSD TECH HM-10 Bluetooth 4.0 BLE iBeacon UART Module|bluethooth module|nieuw|€ 10.99|	1|	€ 10.99|
 |7|	MS 500A Toggle switch|switch|nieuw|	€ 3.50|	1|€ 3.50|
-|8|breadbord 400 punten|breadbord|recup|	€ 0.00|1|€ 0.00|
+|8|breadbord 400 punten|breadbord|recup|	€ 0.00|1|€ 0.00| 
 |9|Arduino Nano R3 - kloon - met headers|	microcontroller|nieuw|	€ 8.10|	1|	€ 8.10|
 |10|2x 18650 Batterijhouder - Klemcontacten - Draden per Cel|batterijhouder|	nieuw|	€ 2.00|1|€ 2.00|
 |11|	RA 10k weerstand 1/4W|Weerstand|	nieuw|€ 0,30|	3|€ 0.30|
