@@ -13,7 +13,7 @@
 |8|breadbord 400 punten|breadbord|recup|	€ 0.00|1|€ 0.00| 
 |9|Arduino Nano R3 - kloon - met headers|	microcontroller|nieuw|	€ 8.10|	1|	€ 8.10|
 |10|2x 18650 Batterijhouder - Klemcontacten - Draden per Cel|batterijhouder|	nieuw|	€ 2.00|1|€ 2.00|
-|11|	RA 10k weerstand 1/4W|Weerstand|	nieuw|€ 0,30|	3|€ 0.30|
+|11|	RA 10k weerstand 1/4W|Weerstand|	nieuw|€ 0,30|	1|€ 0.30|
 |12|thermische krimpkous - 2:1|krimpkous|nieuw|	€ 1,20|	1|	€ 1,20|
 |13|	jumper kabel man-vrouw 60 stuks|kabels|nieuw|€ 4,50|1|	€ 4,50|
 |14|testprintplaat 80x100|printplaat|	nieuw|	€ 4,50|	1|	€ 4,50|
