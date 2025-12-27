@@ -6,7 +6,7 @@ Een instructable is een stappenplan - zonder verdere uitleg - hoe je vertrekkend
 bestel alle componenten uit de bill of materials  
 
 ### stap 2
-kijk of alle componenten op de juiste plaats zijn en of er genoeg ruimte is om naast elke component voor eventuele fouten of extra aansluitingen.
+kijk of alle componenten op de juiste plaats zijn en of er genoeg ruimte is om naast elke component voor eventuele fouten of extra aansluitingen te corrigeren.
 
 ### stap 3
 Test eerst het component met de proof of concepts op een breadboard vooraleer je het soldeert.
@@ -15,7 +15,7 @@ Test eerst het component met de proof of concepts op een breadboard vooraleer je
 Soldeer de arduino Nano op de juiste plaats.
 
 ### stap 5
-Soldeer het onderdeel en test het gesoldeerde onderdeel uit met de bijhorende proof of concepts.
+Soldeer elk onderdeel en test het gesoldeerde onderdeel uit met de bijhorende proof of concepts.
 
 ### stap 6
 Plak de motoren in de 2 hoeken van het printplaatje en soldeer ze ook als laatst aan de H-brug + proof of concepts.
