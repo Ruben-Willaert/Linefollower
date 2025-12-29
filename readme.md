@@ -2,26 +2,26 @@
 
 lege repository die je als template kan gebruiken om een eigen repository te starten voor uw linefollower project
 
-![A description of my image](images/empty.png)
+![A description of my image](images/IMG_4215.jpg)
 
   
 ## specifications
 
-microcontroller:
+microcontroller: Arduino Nano R3 - kloon - met headers
 
-motors: 
+motors: 2 keer => Aslong JGA12-N20-30 DC-Transmissiemotor 6V - 500RPM
 
-h-bridge:
+h-bridge: TB6612FNG Easy Motor Driver
 
-sensors:
+sensors: 8x IR Lijn Tracking Module - 40mm Bereik QTR-8A
 
-batteries:
+batteries: 2 keer => 3.7V 18650 2600mAh
 
-wireless communication:
+wireless communication: dsd tech hm-10
 
-distance sensor - motors:
+distance sensor - motors: 9cm
 
-weight:
+weight: 204 gram
 
-speed: 
+speed: 0.66 m/s
 
