@@ -2,10 +2,13 @@
 
 ### opladen / vervangen batterijen
 uitleg over het opladen of vervangen van de batterijen
+simpelweg uit de houder halen en in de oplader steken.
 
 ### draadloze communicatie
 #### verbinding maken
 uitleg over het verbinden van de robot met laptop / smartphone
+met de app "serial bluetooth terminal" kan je verbinden via bluetooth LE.  
+de module heet "dsd tech"
 
 #### commando's
 debug [on/off]  
